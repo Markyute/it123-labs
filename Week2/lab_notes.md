@@ -1,7 +1,7 @@
 # IT 123 - Week 2 Lab Notes
 ## Installing and Configuring Windows & Linux Virtual Machines in VirtualBox
 
-**Student:** John Mark C. Idanan
+**Student:** John Mark C. Idanan & Catlyn L. Ruiz
 
 I only got through Part 2 (Ubuntu Server) and Part 3 (organizing/GitHub) for this
 submission — I didn't get to the Windows Server VM in Part 1.
