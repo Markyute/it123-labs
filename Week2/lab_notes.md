@@ -3,9 +3,6 @@
 
 **Student:** John Mark C. Idanan & Catlyn L. Ruiz
 
-I only got through Part 2 (Ubuntu Server) and Part 3 (organizing/GitHub) for this
-submission — I didn't get to the Windows Server VM in Part 1.
-
 ## Setting up the VM
 
 I created a new VM in VirtualBox and named it Ubuntu_Server. It auto-detected
