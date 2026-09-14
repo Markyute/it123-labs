@@ -1,8 +1,7 @@
 # Week 5 Notes – System Initialization and Service Management
 
-Names: John Mark Idanan & Catlyn Ruiz
-
-Course, Year and Section: BSIT-4A
+**Names:** John Mark Idanan & Catlyn Ruiz
+**Course, Year and Section:** BSIT-4A
 
 
 This file lists the commands we used during the Week 5 lab (Ubuntu Server only, per instructor's instructions), along with a short explanation of what each command does and why we used it.
