@@ -1,0 +1,5 @@
+# /etc/default/isc-dhcp-server
+# EXCERPT: only the modified lines.
+
+INTERFACESv4="enp0s3"
+INTERFACESv6=""

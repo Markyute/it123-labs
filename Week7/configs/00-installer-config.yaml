@@ -1,0 +1,11 @@
+# /etc/netplan/00-installer-config.yaml  (server static IP)
+network:
+  version: 2
+  ethernets:
+    enp0s3:
+      dhcp4: no
+      addresses:
+        - 10.163.157.150/24
+      gateway4: 10.163.157.45
+      nameservers:
+        addresses: [8.8.8.8, 8.8.4.4]
